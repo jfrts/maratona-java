@@ -18,6 +18,21 @@ public class A0003_Operadores {
         boolean isDezMenorQueVinte = 10 < 20;
         System.out.println(isDezMenorQueVinte);
 
+        // Operadores de atribuição: = += -= *= /= %=
+        double bonus = 1800;
+        bonus += 1000;
+        System.out.println(bonus);
+
+        // Operadores de incremento e decremento: ++ --
+        double idade = 20;
+        idade++;
+        System.out.println(idade); // 21
+        idade--;
+        System.out.println(idade); // 20
+        ++idade;
+        System.out.println(idade); // 21
+        --idade;
+        System.out.println(idade); // 20
     }
 
 }
