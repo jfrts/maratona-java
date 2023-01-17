@@ -19,6 +19,10 @@ public class A0002_TiposPrimitivos {
         boolean falso = false;
         char caractere = 'A';
 
+        // String é um reference type, então não é um tipo primitivo.
+        // String é uma CLASSE.
+        String nome = "Júlio Freitas";
+        System.out.println(nome);
     }
 
 }
