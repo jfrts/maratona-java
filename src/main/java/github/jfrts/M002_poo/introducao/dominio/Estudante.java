@@ -1,4 +1,4 @@
-package github.jfrts.poo.introducao.dominio;
+package github.jfrts.M002_poo.introducao.dominio;
 
 public class Estudante {
 

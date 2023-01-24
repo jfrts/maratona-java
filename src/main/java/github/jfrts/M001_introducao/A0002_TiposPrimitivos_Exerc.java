@@ -1,4 +1,4 @@
-package github.jfrts.introducao;
+package github.jfrts.M001_introducao;
 
 /**
  * Prática:

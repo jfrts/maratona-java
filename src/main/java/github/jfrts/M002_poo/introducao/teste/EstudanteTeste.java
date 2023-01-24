@@ -1,6 +1,6 @@
-package github.jfrts.poo.introducao.teste;
+package github.jfrts.M002_poo.introducao.teste;
 
-import github.jfrts.poo.introducao.dominio.Estudante;
+import github.jfrts.M002_poo.introducao.dominio.Estudante;
 
 public class EstudanteTeste {
     
